@@ -1,4 +1,4 @@
-# Aaisha_Fisher
+# AaishaFisher
 
 <h1 align="center">Hi 👋, I'm Aai'sha Fisher</h1>
 <h3 align="center">A passionate frontend developer from Cape Town, South Africa.</h3>
